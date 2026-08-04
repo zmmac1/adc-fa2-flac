@@ -1,0 +1,583 @@
+{
+  "library": "famitone-2a03",
+  "format": "flac",
+  "fileCount": 96,
+  "files": [
+    {
+      "file": "Noise1-0.flac",
+      "name": "Noise1-0",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise1-0.flac",
+      "size": 11096
+    },
+    {
+      "file": "Noise1-1.flac",
+      "name": "Noise1-1",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise1-1.flac",
+      "size": 11784
+    },
+    {
+      "file": "Noise1-2.flac",
+      "name": "Noise1-2",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise1-2.flac",
+      "size": 12011
+    },
+    {
+      "file": "Noise1-3.flac",
+      "name": "Noise1-3",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise1-3.flac",
+      "size": 12115
+    },
+    {
+      "file": "Noise1-4.flac",
+      "name": "Noise1-4",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise1-4.flac",
+      "size": 12240
+    },
+    {
+      "file": "Noise1-5.flac",
+      "name": "Noise1-5",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise1-5.flac",
+      "size": 12375
+    },
+    {
+      "file": "Noise1-6.flac",
+      "name": "Noise1-6",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise1-6.flac",
+      "size": 12427
+    },
+    {
+      "file": "Noise1-7.flac",
+      "name": "Noise1-7",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise1-7.flac",
+      "size": 12476
+    },
+    {
+      "file": "Noise1-8.flac",
+      "name": "Noise1-8",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise1-8.flac",
+      "size": 12491
+    },
+    {
+      "file": "Noise1-9.flac",
+      "name": "Noise1-9",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise1-9.flac",
+      "size": 12569
+    },
+    {
+      "file": "Noise1-A.flac",
+      "name": "Noise1-A",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise1-A.flac",
+      "size": 12644
+    },
+    {
+      "file": "Noise1-B.flac",
+      "name": "Noise1-B",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise1-B.flac",
+      "size": 12690
+    },
+    {
+      "file": "Noise1-C.flac",
+      "name": "Noise1-C",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise1-C.flac",
+      "size": 12864
+    },
+    {
+      "file": "Noise1-D.flac",
+      "name": "Noise1-D",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise1-D.flac",
+      "size": 12868
+    },
+    {
+      "file": "Noise1-E.flac",
+      "name": "Noise1-E",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise1-E.flac",
+      "size": 12798
+    },
+    {
+      "file": "Noise1-F.flac",
+      "name": "Noise1-F",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise1-F.flac",
+      "size": 12696
+    },
+    {
+      "file": "Noise2-0.flac",
+      "name": "Noise2-0",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise2-0.flac",
+      "size": 11694
+    },
+    {
+      "file": "Noise2-1.flac",
+      "name": "Noise2-1",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise2-1.flac",
+      "size": 11870
+    },
+    {
+      "file": "Noise2-2.flac",
+      "name": "Noise2-2",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise2-2.flac",
+      "size": 12291
+    },
+    {
+      "file": "Noise2-3.flac",
+      "name": "Noise2-3",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise2-3.flac",
+      "size": 12345
+    },
+    {
+      "file": "Noise2-4.flac",
+      "name": "Noise2-4",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise2-4.flac",
+      "size": 12488
+    },
+    {
+      "file": "Noise2-5.flac",
+      "name": "Noise2-5",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise2-5.flac",
+      "size": 12539
+    },
+    {
+      "file": "Noise2-6.flac",
+      "name": "Noise2-6",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise2-6.flac",
+      "size": 12587
+    },
+    {
+      "file": "Noise2-7.flac",
+      "name": "Noise2-7",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise2-7.flac",
+      "size": 12702
+    },
+    {
+      "file": "Noise2-8.flac",
+      "name": "Noise2-8",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise2-8.flac",
+      "size": 12739
+    },
+    {
+      "file": "Noise2-9.flac",
+      "name": "Noise2-9",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise2-9.flac",
+      "size": 12822
+    },
+    {
+      "file": "Noise2-A.flac",
+      "name": "Noise2-A",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise2-A.flac",
+      "size": 12858
+    },
+    {
+      "file": "Noise2-B.flac",
+      "name": "Noise2-B",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise2-B.flac",
+      "size": 12912
+    },
+    {
+      "file": "Noise2-C.flac",
+      "name": "Noise2-C",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise2-C.flac",
+      "size": 13061
+    },
+    {
+      "file": "Noise2-D.flac",
+      "name": "Noise2-D",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise2-D.flac",
+      "size": 13081
+    },
+    {
+      "file": "Noise2-E.flac",
+      "name": "Noise2-E",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise2-E.flac",
+      "size": 12988
+    },
+    {
+      "file": "Noise2-F.flac",
+      "name": "Noise2-F",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise2-F.flac",
+      "size": 12887
+    },
+    {
+      "file": "Noise3-0.flac",
+      "name": "Noise3-0",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise3-0.flac",
+      "size": 12058
+    },
+    {
+      "file": "Noise3-1.flac",
+      "name": "Noise3-1",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise3-1.flac",
+      "size": 12017
+    },
+    {
+      "file": "Noise3-2.flac",
+      "name": "Noise3-2",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise3-2.flac",
+      "size": 12571
+    },
+    {
+      "file": "Noise3-3.flac",
+      "name": "Noise3-3",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise3-3.flac",
+      "size": 12481
+    },
+    {
+      "file": "Noise3-4.flac",
+      "name": "Noise3-4",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise3-4.flac",
+      "size": 12779
+    },
+    {
+      "file": "Noise3-5.flac",
+      "name": "Noise3-5",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise3-5.flac",
+      "size": 12868
+    },
+    {
+      "file": "Noise3-6.flac",
+      "name": "Noise3-6",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise3-6.flac",
+      "size": 12979
+    },
+    {
+      "file": "Noise3-7.flac",
+      "name": "Noise3-7",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise3-7.flac",
+      "size": 13017
+    },
+    {
+      "file": "Noise3-8.flac",
+      "name": "Noise3-8",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise3-8.flac",
+      "size": 13062
+    },
+    {
+      "file": "Noise3-9.flac",
+      "name": "Noise3-9",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise3-9.flac",
+      "size": 13150
+    },
+    {
+      "file": "Noise3-A.flac",
+      "name": "Noise3-A",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise3-A.flac",
+      "size": 13203
+    },
+    {
+      "file": "Noise3-B.flac",
+      "name": "Noise3-B",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise3-B.flac",
+      "size": 13277
+    },
+    {
+      "file": "Noise3-C.flac",
+      "name": "Noise3-C",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise3-C.flac",
+      "size": 13423
+    },
+    {
+      "file": "Noise3-D.flac",
+      "name": "Noise3-D",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise3-D.flac",
+      "size": 13418
+    },
+    {
+      "file": "Noise3-E.flac",
+      "name": "Noise3-E",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise3-E.flac",
+      "size": 13332
+    },
+    {
+      "file": "Noise3-F.flac",
+      "name": "Noise3-F",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise3-F.flac",
+      "size": 13223
+    },
+    {
+      "file": "Noise4-0.flac",
+      "name": "Noise4-0",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise4-0.flac",
+      "size": 12182
+    },
+    {
+      "file": "Noise4-1.flac",
+      "name": "Noise4-1",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise4-1.flac",
+      "size": 12244
+    },
+    {
+      "file": "Noise4-2.flac",
+      "name": "Noise4-2",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise4-2.flac",
+      "size": 12714
+    },
+    {
+      "file": "Noise4-3.flac",
+      "name": "Noise4-3",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise4-3.flac",
+      "size": 12649
+    },
+    {
+      "file": "Noise4-4.flac",
+      "name": "Noise4-4",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise4-4.flac",
+      "size": 12865
+    },
+    {
+      "file": "Noise4-5.flac",
+      "name": "Noise4-5",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise4-5.flac",
+      "size": 12957
+    },
+    {
+      "file": "Noise4-6.flac",
+      "name": "Noise4-6",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise4-6.flac",
+      "size": 13054
+    },
+    {
+      "file": "Noise4-7.flac",
+      "name": "Noise4-7",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise4-7.flac",
+      "size": 13068
+    },
+    {
+      "file": "Noise4-8.flac",
+      "name": "Noise4-8",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise4-8.flac",
+      "size": 13164
+    },
+    {
+      "file": "Noise4-9.flac",
+      "name": "Noise4-9",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise4-9.flac",
+      "size": 13154
+    },
+    {
+      "file": "Noise4-A.flac",
+      "name": "Noise4-A",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise4-A.flac",
+      "size": 13269
+    },
+    {
+      "file": "Noise4-B.flac",
+      "name": "Noise4-B",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise4-B.flac",
+      "size": 13354
+    },
+    {
+      "file": "Noise4-C.flac",
+      "name": "Noise4-C",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise4-C.flac",
+      "size": 13463
+    },
+    {
+      "file": "Noise4-D.flac",
+      "name": "Noise4-D",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise4-D.flac",
+      "size": 13476
+    },
+    {
+      "file": "Noise4-E.flac",
+      "name": "Noise4-E",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise4-E.flac",
+      "size": 13386
+    },
+    {
+      "file": "Noise4-F.flac",
+      "name": "Noise4-F",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise4-F.flac",
+      "size": 13276
+    },
+    {
+      "file": "Noise5-0.flac",
+      "name": "Noise5-0",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise5-0.flac",
+      "size": 12437
+    },
+    {
+      "file": "Noise5-1.flac",
+      "name": "Noise5-1",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise5-1.flac",
+      "size": 12465
+    },
+    {
+      "file": "Noise5-2.flac",
+      "name": "Noise5-2",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise5-2.flac",
+      "size": 12921
+    },
+    {
+      "file": "Noise5-3.flac",
+      "name": "Noise5-3",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise5-3.flac",
+      "size": 13034
+    },
+    {
+      "file": "Noise5-4.flac",
+      "name": "Noise5-4",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise5-4.flac",
+      "size": 13111
+    },
+    {
+      "file": "Noise5-5.flac",
+      "name": "Noise5-5",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise5-5.flac",
+      "size": 13252
+    },
+    {
+      "file": "Noise5-6.flac",
+      "name": "Noise5-6",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise5-6.flac",
+      "size": 13360
+    },
+    {
+      "file": "Noise5-7.flac",
+      "name": "Noise5-7",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise5-7.flac",
+      "size": 13404
+    },
+    {
+      "file": "Noise5-8.flac",
+      "name": "Noise5-8",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise5-8.flac",
+      "size": 13447
+    },
+    {
+      "file": "Noise5-9.flac",
+      "name": "Noise5-9",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise5-9.flac",
+      "size": 13486
+    },
+    {
+      "file": "Noise5-A.flac",
+      "name": "Noise5-A",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise5-A.flac",
+      "size": 13567
+    },
+    {
+      "file": "Noise5-B.flac",
+      "name": "Noise5-B",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise5-B.flac",
+      "size": 13639
+    },
+    {
+      "file": "Noise5-C.flac",
+      "name": "Noise5-C",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise5-C.flac",
+      "size": 13777
+    },
+    {
+      "file": "Noise5-D.flac",
+      "name": "Noise5-D",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise5-D.flac",
+      "size": 13783
+    },
+    {
+      "file": "Noise5-E.flac",
+      "name": "Noise5-E",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise5-E.flac",
+      "size": 13686
+    },
+    {
+      "file": "Noise5-F.flac",
+      "name": "Noise5-F",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise5-F.flac",
+      "size": 13590
+    },
+    {
+      "file": "Noise6-0.flac",
+      "name": "Noise6-0",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise6-0.flac",
+      "size": 1345629
+    },
+    {
+      "file": "Noise6-1.flac",
+      "name": "Noise6-1",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise6-1.flac",
+      "size": 1486701
+    },
+    {
+      "file": "Noise6-2.flac",
+      "name": "Noise6-2",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise6-2.flac",
+      "size": 1650460
+    },
+    {
+      "file": "Noise6-3.flac",
+      "name": "Noise6-3",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise6-3.flac",
+      "size": 1705806
+    },
+    {
+      "file": "Noise6-4.flac",
+      "name": "Noise6-4",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise6-4.flac",
+      "size": 1775213
+    },
+    {
+      "file": "Noise6-5.flac",
+      "name": "Noise6-5",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise6-5.flac",
+      "size": 1820187
+    },
+    {
+      "file": "Noise6-6.flac",
+      "name": "Noise6-6",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise6-6.flac",
+      "size": 1873800
+    },
+    {
+      "file": "Noise6-7.flac",
+      "name": "Noise6-7",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise6-7.flac",
+      "size": 1884156
+    },
+    {
+      "file": "Noise6-8.flac",
+      "name": "Noise6-8",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise6-8.flac",
+      "size": 1899678
+    },
+    {
+      "file": "Noise6-9.flac",
+      "name": "Noise6-9",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise6-9.flac",
+      "size": 1929674
+    },
+    {
+      "file": "Noise6-A.flac",
+      "name": "Noise6-A",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise6-A.flac",
+      "size": 1958941
+    },
+    {
+      "file": "Noise6-B.flac",
+      "name": "Noise6-B",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise6-B.flac",
+      "size": 1994397
+    },
+    {
+      "file": "Noise6-C.flac",
+      "name": "Noise6-C",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise6-C.flac",
+      "size": 2059926
+    },
+    {
+      "file": "Noise6-D.flac",
+      "name": "Noise6-D",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise6-D.flac",
+      "size": 2062998
+    },
+    {
+      "file": "Noise6-E.flac",
+      "name": "Noise6-E",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise6-E.flac",
+      "size": 2022974
+    },
+    {
+      "file": "Noise6-F.flac",
+      "name": "Noise6-F",
+      "url": "https://raw.githubusercontent.com/zmmac1/adc-fa2-flac/main/Noise6-F.flac",
+      "size": 1976882
+    }
+  ]
+}
